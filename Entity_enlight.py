@@ -8,8 +8,8 @@ import docx
 import pandas as pd
 
 # Azure Text Analytics credentials (replace with your credentials)
-endpoint = "https://aimultiser979867857.cognitiveservices.azure.com/"
-key = "af41c07c58894d25882d885b0954cf43"
+endpoint = "YOUR_ENDPOINT"
+key = "YOUR_KEY"
 
 # Function to authenticate the client
 def authenticate_client():
